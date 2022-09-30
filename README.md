@@ -1,4 +1,4 @@
 # OPA README
 > Front page for OPA GitHub. 
 
-* See [projects/README.md](projects/) folder to edit description.
+* See [projects/README.md](projects/README.md) folder to edit description.
